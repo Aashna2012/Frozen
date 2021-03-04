@@ -1,0 +1,47 @@
+li{
+    font-size: 40px;
+    float : right;
+    padding-right: 100px;
+    padding-top: 20px;
+    font-family: Acme;
+ 
+}
+ 
+.Heading{
+    font-size: 60px;
+    float: left;
+    font-family:"Spicy Rice";
+    cursor:none;
+}
+ 
+ul{
+    list-style-type: none;
+}
+ 
+li:hover{
+    background:black;
+    color: white;
+}
+ 
+body{
+    padding: 0;
+    margin: 0;
+    background: turquoise;
+}
+.first-section{
+    background-image: url("file:///C:/Users/Aashna%20Ray%20Mukherjee/OneDrive/Desktop/Aashna's%20cartoon%20images/Elsa.png");
+    width:100%;
+    height:100vh;
+    background-repeat: no-repeat;
+}
+ 
+.first-section img{
+    padding-top: 15rem;
+    padding-left:65rem;
+    width:400px;
+    height:300px;
+}
+ 
+.second-section{
+    background-image:url('elsaback.jpg')
+}
